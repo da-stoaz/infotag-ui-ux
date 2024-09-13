@@ -1,6 +1,6 @@
 # infotag-ui-ux
 
-This template should help get you started developing with Vue 3 in Vite.
+Small Frontend UI/UX project to demonstrate the contrast between good and bad UIs. 
 
 ## Recommended IDE Setup
 
