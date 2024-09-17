@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div>   
         Hello World
         <Button label="Check" icon="pi pi-check" />
     </div>
@@ -8,7 +8,3 @@
 <script setup>
 
 </script>
-
-<style lang="scss" scoped>
-
-</style>
